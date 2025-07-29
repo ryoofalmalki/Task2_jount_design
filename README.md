@@ -21,7 +21,7 @@ The final design can be reviewed through the attached SolidWorks file and refere
 ![View 1](IMG_6074.jpeg)  
 ![View 2](IMG_6075.jpeg)  
 ![View 3](IMG_6076.jpeg)  
-![View 4](IMG_60757.jpeg)
+![View 4](IMG_6077.jpeg)
 
 ---
 
